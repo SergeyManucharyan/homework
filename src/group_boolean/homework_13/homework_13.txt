@@ -1,0 +1,6 @@
+13. Ի՞նչ կտպի կոդի այս հատվածը և ինչու՞։
+     int year = 201l;
+     System.out.print (year);
+     կտպի
+     int տիպին չենք կարող վերագրել long տիպ, պետք է կատարել Cast գործողություն
+     possible lossy conversion from long to int

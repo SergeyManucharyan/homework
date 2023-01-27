@@ -1,0 +1,8 @@
+18․ Գտնել սխալը  և ուղղել․
+
+long max = 3123456789;                          long max = 3123456789L;
+double d = 1000_.00;                            double d = 1000.00D;
+char i =’i’; char j=’j’; char ij = i +j;        char i =’i’; char j=’j’; String ij = i+""+j;
+int 7a = 8;                                     int a7 = 8;
+long h = h  + 8;                                long h =0; h  + 8;
+int n, m = 11; m = n;                           int n, m = 11; n = m;
